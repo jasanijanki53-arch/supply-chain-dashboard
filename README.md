@@ -1,3 +1,10 @@
+## Dashboard Preview
+
+![Overview](Overview%20of%20Supply%20chain.png)
+
+![Revenue Impact](Revenue%20impact%20of%20Supply%20chain.png)
+
+
 # Supply Chain Dashboard - Why First Class Ships Last
 
 ## Overview
